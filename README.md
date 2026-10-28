@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Vania/typing/size-48" alt="Hi, I'm Vania">
+  <img src="background.gif" alt="pixel art" width="400">
 </p>
 
 <p align="center">
-  <img src="background.gif" alt="pixel art" width="400">
+  <img src="https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Vania/typing/size-48" alt="Hi, I'm Vania">
 </p>
 
 ![About me](https://readmes.pages.dev/text/about-me/underline/size-28)
